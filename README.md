@@ -8,7 +8,7 @@
 
 [Requisitos No Funcionales](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/Requisitos%20No%20Funcionales)
 
-[Priorización](https://github.com/Mateohttps://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/Descripci%C3%B3n%20Del%20ProcesoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/Priorizaci%C3%B3n)
+[Priorización](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/Priorizaci%C3%B3n)
 
 [Artefactos](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/Artefactos)
 
