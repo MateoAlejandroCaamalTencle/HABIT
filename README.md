@@ -29,7 +29,7 @@ La aplicación HABIT+ tiene como objetivo ayudar a los usuarios a establecer, ra
 -
 [Presentación](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Presentaci%C3%B3n)
 -
-[Competencias Genéricas](
+[Competencias Genéricas](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Competencias%20Gen%C3%A9ricas)
 -
-[Competencias Específicas](
+[Competencias Específicas](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Competencias%20Espec%C3%ADficas)
 -
