@@ -14,17 +14,18 @@ La aplicación HABIT+ tiene como objetivo ayudar a los usuarios a establecer, ra
 [Perfil de usuario Secundario 2](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/Perfiles%20De%20Usuario/Usuarios%20Secundarios/Maricruz%20Ordo%C3%B1ez%20Pav%C3%B3n.pdf)
 -
 [Propuesta De Valor](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Propuesta%20De%20Valor)
-
+-
 [Requisitos Funcionales](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Requisitos%20Funcionales)
-
+-
 [Requisitos No Funcionales](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Requisitos%20No%20Funcionales)
-
+-
 [Priorización](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Priorizaci%C3%B3n)
-
+-
 [Artefactos](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Artefactos)
-
+-
 [Descripción Del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Descripci%C3%B3n%20Del%20Proceso)
-
+-
 [Gestión del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Gesti%C3%B3n%20Del%20Proceso)
-
+-
 [Presentación](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Presentaci%C3%B3n)
+-
