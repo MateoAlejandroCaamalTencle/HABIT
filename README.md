@@ -1,4 +1,5 @@
 # Primera Entrega
+### Descripción Del Producto
 HABIT+
 La aplicación HABIT+ tiene como objetivo ayudar a los usuarios a establecer, rastrear y mantener hábitos saludables de manera efectiva. Proporciona herramientas para registrar actividades diarias, visualizar el progreso y recibir recordatorios, fomentando la constancia y el desarrollo personal.
 
