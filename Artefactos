@@ -3,7 +3,6 @@ Para documentar los requisitos de la aplicación HABIT+, se incluyen los siguien
 
 - Casos de Uso
 - Historias de Usuario con Criterios de Aceptación
-- Diagrama de Casos de Uso
 
 1. Casos de Uso
 Los Casos de Uso describen las interacciones entre los usuarios y el sistema.
@@ -49,5 +48,3 @@ Criterios de Aceptación:
 El sistema debe enviar una notificación en el horario configurado.
 El usuario debe poder posponer o desactivar la notificación.
 Si las notificaciones están desactivadas en el dispositivo, el sistema debe mostrar una alerta informativa.
-
-3. Diagrama de Casos de Uso
