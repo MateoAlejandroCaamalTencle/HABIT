@@ -1,6 +1,10 @@
-<h1 align="center">HABIT+</h1>
+### <h1 align="center">HABIT+</h1>
 
 Bienvenido al proyecto HABIT+. La aplicación Habit+ tiene como objetivo ayudar a los usuarios a establecer, rastrear y mantener hábitos saludables de manera efectiva. Proporciona herramientas para registrar actividades diarias, visualizar el progreso y recibir recordatorios, fomentando la constancia y el desarrollo personal.
+
+### Competencias</h2>
+
+
 
 ### 🛠️ Herramientas</h2>
   [<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="30">](https://code.visualstudio.com/)
