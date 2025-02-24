@@ -5,6 +5,8 @@ Bienvenido al proyecto HABIT+. La aplicación Habit+ tiene como objetivo ayudar 
 ### Competencias</h2>
 
 
+### Entregas</h2>
+[Primera Entrega](https://github.com/MateoAlejandroCaamalTencle/HABIT/tree/PrimeraEntrega)
 
 ### 🛠️ Herramientas</h2>
   [<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="30">](https://code.visualstudio.com/)
