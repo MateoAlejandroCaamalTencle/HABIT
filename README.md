@@ -19,4 +19,4 @@ La aplicación HABIT+ tiene como objetivo ayudar a los usuarios a establecer, ra
 
 [Gestión del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/Gesti%C3%B3n%20Del%20Proceso)
 
-[Presentación](
+[Presentación](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/Presentaci%C3%B3n)
