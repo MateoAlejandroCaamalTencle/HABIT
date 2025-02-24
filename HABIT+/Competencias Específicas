@@ -1,36 +1,61 @@
-Competencias Específicas
-1. Realiza ingeniería de requisitos de software
-Reconoce el contexto, necesidades e involucrados en un sistema empleando técnicas para identificar, obtener, analizar, priorizar, documentar, verificar y validar los requisitos en el contexto de los ciclos de vida y procesos del desarrollo de software.
+Competencias Específicas Promovidas en el Desarrollo de HABIT+
 
-2. Diseña Software
-Diseña el comportamiento, arquitectura e interfaz de soluciones de software a partir de requerimientos y utilizando estrategias, métodos, técnicas y lenguajes de modelado propios del diseño de software.
+El desarrollo de HABIT+ fomenta diversas competencias específicas a través de actividades concretas en cada fase del proyecto. A continuación, se detalla cómo se promueve cada una de estas competencias en el proceso de desarrollo del software.  
 
-3. Construye software 
-Desarrolla software para diferentes tipos de aplicaciones, utilizando metodologías y paradigmas de programación en el contexto de los ciclos de vida y procesos del desarrollo de software, con los atributos de calidad requeridos.
+1. Realiza Ingeniería de Requisitos de Software
+- Se identifican necesidades de los usuarios primarios y secundarios mediante investigaciones.  
+- Se documentan requisitos funcionales y no funcionales con base en los objetivos de la aplicación.  
+- Se verifican y validan los requisitos mediante la revisión iterativa con potenciales usuarios.  
 
-4. Realiza pruebas de software 
-Planea, asigna y ejecuta tipos, técnicas, procesos y controles dentro de escenarios de pruebas conforme a los atributos de calidad requeridos.
+ 2. Diseña Software
+- Se definen la arquitectura del software y los flujos de navegación de la aplicación.    
+- Se diseña la interfaz de usuario considerando principios de usabilidad y experiencia del usuario (UX/UI).  
 
-5. Realiza mantenimiento de software
-Aplica tipos, procesos y técnicas de mantenimiento conforme a los atributos de calidad requeridos
+3. Construye Software 
+- Se aplican principios de desarrollo ágil para la iteración continua.  
+- Se prueban funcionalidades mediante simuladores y dispositivos reales.  
 
-6. Administra proyectos de software
-Usa métodos, estrategias, procesos, herramientas y técnicas para la gestión de proyectos de software.
+4. Realiza Pruebas de Software
+- Se diseñan y ejecutan pruebas unitarias y de integración para validar la funcionalidad del sistema.  
+- Se aplican pruebas de usabilidad con usuarios reales para evaluar la experiencia de uso.  
+- Se documentan y corrigen errores detectados durante las pruebas.  
 
-7. Estima parámetros del proyecto de software
-Aplica métricas para la estimación del software (tamaño, costo, esfuerzo, personal, tiempo, productividad, calidad y documentación) conforme a los modelos de ciclos de vida de los sistemas.
+5. Realiza Mantenimiento de Software 
+- Se identifica y corrige errores en el código a través de revisiones periódicas.  
+- Se optimizan funcionalidades y se implementan mejoras de rendimiento.  
+- Se actualiza la aplicación en función de nuevas necesidades detectadas en los usuarios.  
 
-8. Asegura la Calidad del Software 
-Utiliza técnicas, herramientas y estrategias para planificar, asegurar y controlar la calidad de un producto de software.
+6. Administra Proyectos de Software 
+- Se utiliza un sistema de gestión de tareas para organizar el trabajo (GitHub).  
+- Se aplican metodologías ágiles para planificar sprints de desarrollo.  
+- Se asignan tiempos y recursos de manera eficiente para cumplir con los objetivos del proyecto.  
 
-9. Establece mecanismos de seguridad
-Crea o propone métodos y estrategias para evaluar la seguridad y la selección de los criterios que eviten vulnerabilidades en seguridad del software.
+7. Estima Parámetros del Proyecto de Software
+- Se calculan costos y tiempos estimados de desarrollo utilizando métricas como Puntos de Función o COCOMO.  
+- Se analiza la factibilidad técnica del proyecto antes de su implementación.  
+- Se evalúan los recursos humanos y tecnológicos necesarios para su desarrollo.  
 
-10. Emplea ciclos de vida
-Emplea los elementos y criterios en el uso de los modelos de ciclos de vida conforme al contexto de procesos del desarrollo de software.
+8. Asegura la Calidad del Software
+- Se establecen estándares de codificación para mejorar la mantenibilidad del software.  
+- Se realizan revisiones de código y auditorías de calidad.  
+- Se documentan pruebas y se verifica el cumplimiento de los requisitos funcionales.  
 
-11. Verifica calidad de soluciones de software
-Emplea diversos modelos de pruebas para garantizar la calidad del producto de software.
+9. Establece Mecanismos de Seguridad
+- Se implementan estrategias de autenticación segura para proteger los datos del usuario.  
+- Se encripta la información sensible dentro de la aplicación.  
+- Se evalúan posibles vulnerabilidades en la aplicación y se aplican medidas correctivas.  
 
-12. Usa herramientas para creación de software
-Utiliza métodos industriales y herramientas CASE para las diferentes fases en el proceso de software.
+10. Emplea Ciclos de Vida  
+- Se selecciona un modelo de desarrollo adecuado para el proyecto (ágil con iteraciones).  
+- Se aplican revisiones y mejoras en cada iteración del producto.  
+- Se establecen hitos y entregables dentro del ciclo de vida del software.  
+
+11. Verifica Calidad de Soluciones de Software
+- Se ejecutan pruebas de compatibilidad en distintos dispositivos y sistemas operativos.  
+- Se verifica el cumplimiento de los estándares de accesibilidad y usabilidad.  
+- Se comparan los resultados de las pruebas con los criterios de aceptación definidos.  
+
+12. Usa Herramientas para Creación de Software
+- Se emplea Git y GitHub para el control de versiones y colaboración en el desarrollo.  
+- Se utiliza herramientas de prototipado como Figma o Adobe XD para diseñar la interfaz de usuario.  
+- Se aplica Firebase o bases de datos locales para la gestión de información de los usuarios.  
