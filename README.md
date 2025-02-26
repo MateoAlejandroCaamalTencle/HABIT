@@ -17,7 +17,7 @@
 -
 [Gestión del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Gesti%C3%B3n%20Del%20Proceso.md)
 -
-[Presentación](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Presentaci%C3%B3n)
+[Presentación](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Presentaci%C3%B3n.md)
 -
 [Competencias Genéricas](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Competencias%20Gen%C3%A9ricas.md)
 -
