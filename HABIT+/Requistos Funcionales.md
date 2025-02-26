@@ -34,7 +34,9 @@ Historia 1 – Creación de hábitos
 Como usuario de la aplicación, quiero registrar nuevos hábitos con nombre, frecuencia y recordatorios, para que pueda hacer seguimiento de mi progreso diario.
 
 Historia 2 – Notificaciones
+
 Como usuario que olvida realizar sus hábitos, quiero recibir recordatorios automáticos en horarios específicos, para que pueda mantener la constancia en mi rutina.
 
 Historia 3 – Estadísticas de progreso
+
 Como usuario que quiere mejorar su disciplina, quiero ver gráficos y estadísticas de mis hábitos, para que pueda evaluar mi desempeño y hacer ajustes en mi rutina.
