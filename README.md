@@ -1,9 +1,6 @@
 # Primera Entrega
-# Descripción Del Producto
-HABIT+
-
-La aplicación HABIT+ tiene como objetivo ayudar a los usuarios a establecer, rastrear y mantener hábitos saludables de manera efectiva. Proporciona herramientas para registrar actividades diarias, visualizar el progreso y recibir recordatorios, fomentando la constancia y el desarrollo personal.
-
+[Descripción Del Producto](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Descripci%C3%B3n%20De%20Producto.md)
+-
 [Usuarios/Clientes](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Usuarios%20Y%20Clientes.md) 
 -
 [Propuesta De Valor](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Propuesta%20De%20Valor.md)
