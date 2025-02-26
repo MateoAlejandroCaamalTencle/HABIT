@@ -24,9 +24,9 @@ RF6: La aplicación debe mostrar gráficos y estadísticas sobre el progreso de 
 RF7: Debe permitir ver métricas de cumplimiento como porcentaje de éxito y rachas de hábitos completados.
 
 
+
 2. Historias de Usuario
 
-A continuación, se presentan algunas historias de usuario utilizando la plantilla indicada:
 
 
 Historia 1 – Creación de hábitos
