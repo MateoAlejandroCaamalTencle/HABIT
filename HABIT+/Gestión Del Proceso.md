@@ -29,9 +29,14 @@ Objetivo: Revisión de avance en el desarrollo de la interfaz
 Decisiones tomadas:  
 - Se implementaron los primeros requisitos funcionales y no funcionales, al igual que se crearon historias de usuario y se definieron los usuarios y clientes del producto.
 
+
 Tareas asignadas para la próxima revisión:
+
 ✔ Usar el sistema MosCow para la priorizacion de los requisitos.  
+
 ✔ Implementar más requisitos funcionales y no funcionales del producto.
+
 ✔ Organizar el repositorio.
+
 
 Fecha de próxima revisión: 22 de febrero de 2025  

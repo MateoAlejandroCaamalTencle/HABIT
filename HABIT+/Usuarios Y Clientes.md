@@ -62,55 +62,77 @@ Un usuario que quiere una alternativa más eficiente a otras aplicaciones de seg
 Perfiles de usuarios:
 
 Tipo de persona: Usuario Primario
+
 Nombre: Antonio Gómez Sosa
+
 Ocupación: Empleado de oficina
+
 Edad: 24 años
 
 Actividades:
 
 Trabajar en horarios de oficina.
+
 Asistir a reuniones y completar reportes.
+
 Intentar llevar una rutina de alimentación saludable.
+
 Realizar actividades de relajación como meditación.
 
 Metas:
 
 Crear hábitos de alimentación saludable.
+
 Organizar mejor su tiempo entre trabajo y vida personal.
+
 Reducir el estrés con técnicas de mindfulness.
 
 
 Tipo de persona: Usuario Primario
+
 Nombre: Azul López Lara
+
 Ocupación: Estudiante universitaria
+
 Edad: 19 años
 
 Actividades:
 
 Asistir a clases y realizar tareas.
+
 Estudiar para exámenes.
+
 Hacer ejercicio ocasionalmente.
+
 Leer libros 
 
 Metas:
 
 Mejorar su organización y hábitos de estudio.
+
 Leer más libros al mes.
+
 Desarrollar una rutina de ejercicio.
 
 
 Tipo de persona: Usuario Secundario
+
 Nombre: Juan Torres Chavéz
+
 Ocupación: Entrenador personal
+
 Edad: 28 años
 
 Actividades:
 
 Diseñar planes de entrenamiento personalizados.
+
 Motivar a sus clientes a mantener una rutina de ejercicio.
+
 Seguir el progreso de sus clientes en la adopción de hábitos saludables.
 
 Metas:
 
 Asegurar que sus clientes cumplan sus rutinas.
+
 Implementar una herramienta de monitoreo que facilite el seguimiento de sus clientes.

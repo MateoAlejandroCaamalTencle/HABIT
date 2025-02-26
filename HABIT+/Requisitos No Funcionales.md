@@ -1,3 +1,4 @@
+Requisitos No Funcionales
 1. Rendimiento
 
 RNF1: La aplicación debe iniciar en un tiempo máximo de 3 segundos en dispositivos de gama media. (Verificación: Medición del tiempo de arranque en diferentes dispositivos.)
@@ -7,4 +8,5 @@ RNF2: Las acciones principales (crear, editar, eliminar hábitos) deben ejecutar
 RNF3: La aplicación debe poder gestionar al menos 50 hábitos activos sin afectar el rendimiento. (Verificación: Pruebas de carga con múltiples hábitos registrados.)
 
 2. Usabilidad
+
 RNF4: La interfaz debe ser intuitiva, permitiendo que un usuario nuevo pueda crear un hábito en menos de 3 pasos. (Verificación: Pruebas de experiencia de usuario con nuevos usuarios.)
