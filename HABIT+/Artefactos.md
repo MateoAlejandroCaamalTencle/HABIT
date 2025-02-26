@@ -1,0 +1,51 @@
+Artefactos de Especificación de Requisitos
+
+Para documentar los requisitos de la aplicación HABIT+, se incluyen los siguientes artefactos como evidencia:
+
+- Casos de Uso
+- Historias de Usuario con Criterios de Aceptación
+
+1. Casos de Uso
+Los Casos de Uso describen las interacciones entre los usuarios y el sistema.
+
+CU01 - Crear un Hábito
+Actor: Usuario
+Descripción: El usuario crea un nuevo hábito ingresando un nombre, frecuencia y horario.
+Precondición: El usuario debe haber abierto la aplicación.
+Flujo Normal:
+El usuario selecciona la opción “Crear hábito”.
+Ingresa los detalles del hábito.
+Confirma la creación del hábito.
+El sistema guarda el hábito y muestra una confirmación.
+Excepciones:
+E01: Si el usuario no ingresa un nombre, el sistema mostrará un mensaje de error.
+E02: Si el usuario cancela, el hábito no se guardará.
+
+CU02 - Marcar un Hábito como Completado
+Actor: Usuario
+Descripción: El usuario marca un hábito como realizado en el día correspondiente.
+Flujo Normal:
+El usuario accede a la lista de hábitos.
+Selecciona un hábito y lo marca como completado.
+El sistema registra la acción y actualiza el historial.
+Excepciones:
+E01: Si la aplicación está sin conexión, se almacenará el cambio y se sincronizará luego.
+
+2. Historias de Usuario con Criterios de Aceptación
+Se presentan algunas historias de usuario, junto con sus criterios de aceptación.
+
+Historia 1 – Creación de Hábitos
+Como usuario de la aplicación, quiero registrar nuevos hábitos con nombre, frecuencia y recordatorios, para que pueda hacer seguimiento de mi progreso diario.
+
+Criterios de Aceptación:
+El usuario debe poder crear un hábito con nombre, frecuencia y horario.
+Si el usuario deja el nombre vacío, el sistema debe mostrar un mensaje de error.
+Una vez creado, el hábito debe aparecer en la lista de hábitos activos.
+
+Historia 2 – Notificaciones Personalizadas
+Como usuario que olvida realizar sus hábitos, quiero recibir recordatorios automáticos en horarios específicos, para que pueda mantener la constancia en mi rutina.
+
+Criterios de Aceptación:
+El sistema debe enviar una notificación en el horario configurado.
+El usuario debe poder posponer o desactivar la notificación.
+Si las notificaciones están desactivadas en el dispositivo, el sistema debe mostrar una alerta informativa.
