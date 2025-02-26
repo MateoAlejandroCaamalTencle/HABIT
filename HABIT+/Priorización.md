@@ -3,8 +3,11 @@ Priorización de Requisitos
 Para priorizar los requisitos funcionales y no funcionales de HABIT+, utilizaremos el método MoSCoW, que clasifica los requisitos en cuatro categorías:
 
 M (Must Have) – Obligatorios, fundamentales para el funcionamiento de la aplicación.
+
 S (Should Have) – Importantes, pero la aplicación puede funcionar sin ellos en una primera versión.
+
 C (Could Have) – Deseables, agregan valor pero pueden ser postergados.
+
 W (Won’t Have) – No serán implementados en esta versión, pero pueden considerarse en futuras iteraciones.
 
 1. Priorización de Requisitos Funcionales (RF)
