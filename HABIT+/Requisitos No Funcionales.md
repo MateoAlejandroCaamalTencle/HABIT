@@ -1,3 +1,4 @@
+Requisitos No Funcionales
 1. Rendimiento
 
 RNF1: La aplicación debe iniciar en un tiempo máximo de 3 segundos en dispositivos de gama media. (Verificación: Medición del tiempo de arranque en diferentes dispositivos.)
