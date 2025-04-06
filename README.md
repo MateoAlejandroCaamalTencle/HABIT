@@ -1,7 +1,7 @@
 # Segunda Entrega
-[Evolución del Producto](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Descripci%C3%B3n%20De%20Producto.md)
+[Evolución del Producto](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/SegundaEntrega/HABIT%2B/Evoluci%C3%B3n%20Del%20Producto.md)
 -
-[Evolución de Requisitos](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Usuarios%20Y%20Clientes.md) 
+[Evolución de Requisitos](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/SegundaEntrega/HABIT%2B/Evoluci%C3%B3n%20De%20Requisitos.md) 
 -
 [Refinamiento de Artefactos](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/PrimeraEntrega/HABIT%2B/Propuesta%20De%20Valor.md)
 -
