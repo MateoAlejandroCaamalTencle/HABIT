@@ -9,7 +9,7 @@
 -
 [Correnpondecia con los Requisitos]()
 -
-[Validación de Interfaces*]()
+[Validación de Interfaces]()
 -
 [Descripción del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/SegundaEntrega/HABIT%2B/Descripci%C3%B3n%20Del%20Proceso.md)
 -
