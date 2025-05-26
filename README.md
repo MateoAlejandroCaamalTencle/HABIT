@@ -15,15 +15,15 @@
 -
 [Correspondencia con los Requisitos](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Correspondencia%20con%20los%20Requisitos.md)
 -
-[Pruebas Informales ]()
+[Pruebas Informales ](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Pruebas%20Informales.md)
 -
-[Resultados]()
+[Resultados](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Resultados.md)
 -
 [Descripción del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Descripci%C3%B3n%20del%20Proceso.md)
 -
 [Gestión del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Gesti%C3%B3n%20del%20Proceso.md)
 -
-[Métrica de Contribución Individual]()
+[Métrica de Contribución Individual](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/M%C3%A9trica%20de%20Contribuci%C3%B3n%20Individual.pdf)
 -
 [Artefactos Scrum (Solo Mérida)]()
 -
