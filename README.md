@@ -19,7 +19,7 @@
 -
 [Resultados]()
 -
-[Descripción del Proceso]()
+[Descripción del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Descripci%C3%B3n%20del%20Proceso.md)
 -
 [Gestión del Proceso]()
 -
@@ -27,13 +27,13 @@
 -
 [Artefactos Scrum (Solo Mérida)]()
 -
-[Organización y Documentación del Repositorio]()
+[Organización y Documentación del Repositorio](https://github.com/MateoAlejandroCaamalTencle/HABIT/tree/TerceraEntrega)
 -
 [Presentación]()
 -
-[Competencias Genéricas]()
+[Competencias Genéricas](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Competencias%20Gen%C3%A9ricas.md)
 -
-[Competencias Específicas]()
+[Competencias Específicas](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Competencias%20Espec%C3%ADficas.md)
 -
 [Crítica Constructiva al curso]()
 -
