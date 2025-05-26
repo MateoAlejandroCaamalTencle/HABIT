@@ -21,7 +21,7 @@
 -
 [Descripción del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Descripci%C3%B3n%20del%20Proceso.md)
 -
-[Gestión del Proceso]()
+[Gestión del Proceso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Gesti%C3%B3n%20del%20Proceso.md)
 -
 [Métrica de Contribución Individual]()
 -
@@ -35,5 +35,5 @@
 -
 [Competencias Específicas](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Competencias%20Espec%C3%ADficas.md)
 -
-[Crítica Constructiva al curso]()
+[Crítica Constructiva al curso](https://github.com/MateoAlejandroCaamalTencle/HABIT/blob/TerceraEntrega/HABIT%2B/Cr%C3%ADtica%20Constructiva%20al%20curso.md)
 -
